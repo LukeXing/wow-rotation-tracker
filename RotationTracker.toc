@@ -1,0 +1,11 @@
+## Interface: 100200
+## Title: RotationTracker
+## Notes: Tracks your WoW combat rotation and compares your DPS to a target benchmark.
+## Author: RotationTracker Team
+## Version: 1.0.1
+## SavedVariables: RotationTrackerDB
+## X-Curse-Project-ID: 000000
+## X-Curse-Project-Name: RotationTracker
+## X-Project-Owner: your-cf-username
+
+RotationTracker.lua
